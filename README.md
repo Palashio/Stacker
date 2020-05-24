@@ -1,2 +1,2 @@
-# Stacker
-Stock trading bot using Actor-Critics based Deep RL. 
+# Stacker: deep RL stock trading. 
+![logo](/stacker.png)
